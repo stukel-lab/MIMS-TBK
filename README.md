@@ -25,6 +25,7 @@ __Data Crunching__
 * [NCP Model Module](https://github.com/tbrycekelly/MIMS-TBK/blob/master/NCP%20Model.ipynb)
 * Diurnal Signal Module
 * Spatial Signal Module
+* Vertical Mixing Module
 * Intercalibration Module
 
 ---
@@ -35,4 +36,6 @@ Since not everyone is familiar with the Jupyter Notebook platform, let us say a 
 
 ### Citation
 
-Dr. Sven __Kranz__ [(link)](https://www.eoas.fsu.edu/people/faculty/dr-sven-kranz) and Thomas B __Kelly__ [(link)](https://nationalmaglab.org/component/maglabdata/?view=personnel&id=ThomasKelly), Florida State University.
+Dr. Sven __Kranz__ and Thomas B __Kelly__ [(link)](https://nationalmaglab.org/component/maglabdata/?view=personnel&id=ThomasKelly), Florida State University.
+
+Find out contact information: [(Sven Kranz)](https://www.eoas.fsu.edu/people/faculty/dr-sven-kranz) & [(Thomas Kelly)](http://myweb.fsu.edu/tbk14/)
